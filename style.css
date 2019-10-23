@@ -48,10 +48,8 @@ h2 {
 }
 
 a {
-  font-family: 'Roboto', sans-serif;
   text-decoration: none;
   color: #E9372B;
-  font-weight: 600;
   font-size: 22px;
 }
 
@@ -100,7 +98,6 @@ a:hover {
 
 .coding-languages {
   font-size: 25px;
-  color: #1B3455;
   display:inline;
   font-weight: bold;
 
